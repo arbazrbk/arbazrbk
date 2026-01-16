@@ -47,50 +47,7 @@ I'm an **AI Developer** specializing in **Machine Learning** and **Deep Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
 </div>
-
----
-
-## 🎯 Areas of Expertise
-
-```python
-class AIExpertise:
-    def __init__(self):
-        self.machine_learning = ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning"]
-        self. deep_learning = ["Neural Networks", "CNNs", "RNNs", "Transformers", "GANs"]
-        self.nlp = ["LangChain", "LangGraph", "Text Processing", "Sentiment Analysis"]
-        self.data_science = ["Pandas", "NumPy", "Data Visualization", "Statistical Analysis"]
-        self.visualization = ["Matplotlib", "Seaborn", "Plotly"]
-        
-    def current_focus(self):
-        return "Building production-ready AI applications with LangChain & LangGraph"
-```
-
-## 💼 Featured AI/ML Projects
-
-### 🤖 [Machine Learning Project 1]
-**Tech Stack:** Python, TensorFlow, Pandas, NumPy
-- Description of your ML project
-- Key achievements and results
-
-### 🧠 [Deep Learning Project 2]
-**Tech Stack:** PyTorch, CNN, Matplotlib, Seaborn
-- Description of your DL project
-- Model accuracy and performance metrics
-
-### 🔗 [LangChain/LangGraph Application]
-**Tech Stack:** LangChain, LangGraph, Python
-- AI-powered application using LangChain
-- Integration details and features
-
-### 📊 [Data Analysis Project]
-**Tech Stack:** Pandas, NumPy, Matplotlib, Seaborn
-- Comprehensive data analysis and visualization
-- Insights and findings
-
----
 
 ## 📚 Skills & Competencies
 
