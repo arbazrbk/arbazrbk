@@ -20,7 +20,7 @@ I'm an **AI Developer** specializing in **Machine Learning** and **Deep Learning
 - 📊 Proficient in data analysis with **Pandas, NumPy, Matplotlib & Seaborn**
 - 🎯 2026 Goals: Contribute to Open Source AI projects and build production-ready AI systems
 - ⚡ Fun fact: I believe AI will revolutionize how we solve problems
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: arbazkhanrbk@gmail.com
 
 ---
 
