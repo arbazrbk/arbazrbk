@@ -9,21 +9,6 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm an **AI Developer** specializing in **Machine Learning** and **Deep Learning** 🤖.   I'm passionate about building intelligent systems and leveraging cutting-edge AI technologies to solve real-world problems 💡.  I love exploring new AI frameworks and working with data to extract meaningful insights 📊.
-
-- 🧠 I'm currently working on **Machine Learning & Deep Learning** projects
-- 🔗 Exploring **LangChain** and **LangGraph** for AI applications
-- 📊 Proficient in data analysis with **Pandas, NumPy, Matplotlib & Seaborn**
-- 🎯 2026 Goals: Contribute to Open Source AI projects and build production-ready AI systems
-- ⚡ Fun fact: I believe AI will revolutionize how we solve problems
-- 📫 How to reach me: arbazkhanrbk@gmail.com
-
----
-
 ## 🛠️ Technology Stack
 
 <div align="center">
@@ -49,20 +34,7 @@ I'm an **AI Developer** specializing in **Machine Learning** and **Deep Learning
 
 </div>
 
-## 📚 Skills & Competencies
 
-<div align="center">
-
-| Category | Technologies |
-|----------|-------------|
-| **Machine Learning** | Scikit-learn, TensorFlow, PyTorch, XGBoost |
-| **Deep Learning** | Neural Networks, CNNs, RNNs, Transfer Learning |
-| **NLP & LLMs** | LangChain, LangGraph, Transformers, Hugging Face |
-| **Data Processing** | Pandas, NumPy, Data Cleaning, Feature Engineering |
-| **Visualization** | Matplotlib, Seaborn, Plotly, Tableau |
-| **Tools & Platforms** | Jupyter, Git, Docker, VS Code |
-
-</div>
 
 
 
